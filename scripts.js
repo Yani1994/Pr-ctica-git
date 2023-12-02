@@ -1,1 +1,1 @@
-alert(¨Welcome to learnig GIT¨)
+alert("Welcome to learnig GIT")
